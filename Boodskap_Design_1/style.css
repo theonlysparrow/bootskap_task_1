@@ -1,0 +1,98 @@
+.cost{
+    background-color: black;
+    color: white;
+}
+.values p{
+    font-size: 15px;
+    
+}
+.values .num{
+    font-weight: 900;
+    font-size: 22px;
+    
+}
+.icon{
+    width: 70px;
+}
+.circle{
+    width: 150px;
+    border-radius: 100px;
+}
+.grid{
+    background-color: #fff1e0;
+    
+}
+.info h2{
+    font-size: 45px;
+    line-height: 45px;
+}
+.info p{
+    font-size: 20px;
+    font-size: 16px;
+}
+.calc{
+    background-color: yellow;
+    height: 600px;
+}
+.intro_img{
+    width: 470px;
+}
+.intro_1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.read{
+    background-color: #f7921a;
+    color: white;
+    width: 155px;
+}
+.intro{
+    background-color: #f8f8f8;
+}
+.calc_cont{
+    padding-top: 110px;
+    
+}
+.calc_cont h2{
+    font-size: 42px;
+    
+}
+.brand{
+    background-color: #f8f8f8;
+}
+.main{
+    background: url(assets/main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 630px;
+}
+.main_content{
+    color: white;
+    padding-top: 150px;
+    padding-left: 125px;
+    
+}
+
+.main_content h2{
+    color: orange;
+}
+.read_2{
+    color: white;
+    width: 130px;
+}
+.card{
+    width: 350px;
+}
+.arrow{
+    position: absolute;
+    bottom: -20px;
+    border-radius: 233px;
+    background-color: orange;
+    right: 155px;
+}
+.investors{
+    background-color: #ffffff;
+}
+.grid_icon{
+    width: 50px;
+}
